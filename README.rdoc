@@ -1,0 +1,5 @@
+== README
+
+This is a blog to add to my portfolio. It looks clean and is ready to use. There are somethings that I am planning to add, but where it is now it is ready to go.
+
+Thanks to Mackenzie Child and his awesome YouTube tutorials for the help.
